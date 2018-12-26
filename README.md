@@ -1,4 +1,4 @@
-# Android User Credentials
+# Android User Credential
 
 ![user credentials 1](https://user-images.githubusercontent.com/801612/50359184-b4a77600-0510-11e9-81d6-6c3350a3972e.jpeg)
 
